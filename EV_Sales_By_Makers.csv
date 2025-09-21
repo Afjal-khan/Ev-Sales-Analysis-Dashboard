@@ -1,0 +1,817 @@
+date,vehicle_category,maker,electric_vehicles_sold
+2021-04-01,2-Wheelers,OLA ELECTRIC,0.0
+2022-04-01,2-Wheelers,OKAYA EV,
+2021-05-01,2-Wheelers,OLA ELECTRIC,0.0
+2021-06-01,2-Wheelers,OLA ELECTRIC,0.0
+2021-07-01,2-Wheelers,OLA ELECTRIC,0.0
+2021-08-01,2-Wheelers,OLA ELECTRIC,0.0
+2021-09-01,2-Wheelers,Olaelectric,0.0
+2021-10-01,2-Wheelers,OLA ELECTRIC,0.0
+2021-11-01,2-Wheelers,OLA ELECTRIC,0.0
+2021-04-01,4-Wheelers,BYD INDIA,0.0
+2021-04-01,4-Wheelers,PCA AUTOMOBILES,0.0
+2021-04-01,4-Wheelers,BMW India,0.0
+2021-04-01,4-Wheelers,Volvo Auto India,0.0
+2021-04-01,4-Wheelers,KIA Motors,0.0
+2022-04-01,4-Wheelers,PCA Automobiles,0.0
+2022-04-01,4-Wheelers,Volvo Auto India,0.0
+2022-04-01,4-Wheelers,KIA MOTORS,0.0
+2021-05-01,4-Wheelers,BYD India,0.0
+2021-05-01,4-Wheelers,PCA Automobiles,0.0
+2021-05-01,4-Wheelers,Bmwindia,0.0
+2021-05-01,4-Wheelers,MERCEDES -BENZ AG,0.0
+2021-05-01,4-Wheelers,Volvo Auto India,0.0
+2021-05-01,4-Wheelers,KIA Motors,0.0
+2022-05-01,4-Wheelers,PCA AUTOMOBILES,0.0
+2022-05-01,4-Wheelers,Volvo Auto India,0.0
+2022-05-01,4-Wheelers,KIA Motors,0.0
+2021-06-01,4-Wheelers,BYD India,0.0
+2021-06-01,4-Wheelers,PCA Automobiles,0.0
+2021-06-01,4-Wheelers,BMW India,0.0
+2021-06-01,4-Wheelers,Volvo Auto India,0.0
+2021-06-01,4-Wheelers,KIA Motors,0.0
+2022-06-01,4-Wheelers,PCA Automobiles,0.0
+2022-06-01,4-Wheelers,Volvoautoindia,0.0
+2022-06-01,4-Wheelers,KIA MOTORS,0.0
+2021-07-01,4-Wheelers,BYD India,0.0
+2021-07-01,4-Wheelers,Pcaautomobiles,0.0
+2021-07-01,4-Wheelers,BMW India,0.0
+2021-07-01,4-Wheelers,Volvo Auto India,0.0
+2021-07-01,4-Wheelers,Kiamotors,0.0
+2022-07-01,4-Wheelers,PCA Automobiles,0.0
+2022-07-01,4-Wheelers,Volvo Auto India,0.0
+2022-07-01,4-Wheelers,KIA Motors,0.0
+2021-08-01,4-Wheelers,BYD India,0.0
+2021-08-01,4-Wheelers,Pcaautomobiles,0.0
+2021-08-01,4-Wheelers,BMW INDIA,0.0
+2021-08-01,4-Wheelers,Volvo Auto India,0.0
+2021-08-01,4-Wheelers,KIA MOTORS,0.0
+2022-08-01,4-Wheelers,PCA Automobiles,0.0
+2022-08-01,4-Wheelers,Volvo Auto India,0.0
+2022-08-01,4-Wheelers,KIA Motors,0.0
+2021-09-01,4-Wheelers,BYD India,0.0
+2021-09-01,4-Wheelers,PCA Automobiles,0.0
+2021-09-01,4-Wheelers,BMW INDIA,0.0
+2021-09-01,4-Wheelers,Volvo Auto India,0.0
+2021-09-01,4-Wheelers,KIA Motors,0.0
+2022-09-01,4-Wheelers,Pcaautomobiles,0.0
+2022-09-01,4-Wheelers,Volvoautoindia,0.0
+2022-09-01,4-Wheelers,KIA MOTORS,0.0
+2021-10-01,4-Wheelers,BYD India,0.0
+2021-10-01,4-Wheelers,PCA Automobiles,0.0
+2021-10-01,4-Wheelers,BMW India,0.0
+2021-10-01,4-Wheelers,Volvo Auto India,0.0
+2021-10-01,4-Wheelers,KIA Motors,0.0
+2022-10-01,4-Wheelers,PCA Automobiles,0.0
+2022-10-01,4-Wheelers,Volvo Auto India,0.0
+2021-11-01,4-Wheelers,BYD India,0.0
+2021-11-01,4-Wheelers,PCA AUTOMOBILES,0.0
+2021-11-01,4-Wheelers,BMW India,0.0
+2021-11-01,4-Wheelers,Volvo Auto India,0.0
+2021-11-01,4-Wheelers,KIA Motors,0.0
+2022-11-01,4-Wheelers,PCA Automobiles,0.0
+2021-12-01,4-Wheelers,PCA Automobiles,0.0
+2021-12-01,4-Wheelers,BMW India,0.0
+2021-12-01,4-Wheelers,Volvoautoindia,0.0
+2021-12-01,4-Wheelers,KIA Motors,0.0
+2022-12-01,4-Wheelers,PCA AUTOMOBILES,0.0
+2022-01-01,4-Wheelers,Pcaautomobiles,0.0
+2022-01-01,4-Wheelers,Bmwindia,0.0
+2022-01-01,4-Wheelers,Volvo Auto India,0.0
+2022-01-01,4-Wheelers,KIA MOTORS,0.0
+2023-01-01,4-Wheelers,PCA Automobiles,0.0
+2022-02-01,4-Wheelers,PCA Automobiles,0.0
+2022-02-01,4-Wheelers,BMW India,0.0
+2022-02-01,4-Wheelers,Volvo Auto India,0.0
+2022-02-01,4-Wheelers,KIA Motors,0.0
+2023-02-01,4-Wheelers,PCA AUTOMOBILES,0.0
+2022-03-01,4-Wheelers,PCA Automobiles,0.0
+2022-03-01,4-Wheelers,KIA Motors,0.0
+2021-04-01,4-Wheelers,Tata Motors,322.0
+2021-04-01,4-Wheelers,MG Motor,118.0
+2021-04-01,4-Wheelers,Mahindra & Mahindra,171.0
+2021-04-01,4-Wheelers,HYUNDAI MOTOR,12.0
+2021-04-01,4-Wheelers,Mercedes -Benz AG,3.0
+2022-04-01,4-Wheelers,TATA MOTORS,1409.0
+2022-04-01,4-Wheelers,MG Motor,177.0
+2022-04-01,4-Wheelers,Mahindra & Mahindra,611.0
+2022-04-01,4-Wheelers,BYD India,15.0
+2022-04-01,4-Wheelers,Hyundai Motor,17.0
+2022-04-01,4-Wheelers,BMW India,12.0
+2022-04-01,4-Wheelers,Mercedes -Benz AG,8.0
+2023-04-01,4-Wheelers,Tata Motors,364.0
+2023-04-01,4-Wheelers,MG Motor,265.0
+2023-04-01,4-Wheelers,Mahindra & Mahindra,4880.0
+2023-04-01,4-Wheelers,Bydindia,156.0
+2023-04-01,4-Wheelers,Hyundaimotor,42.0
+2023-04-01,4-Wheelers,Pcaautomobiles,181.0
+2023-04-01,4-Wheelers,BMW India,51.0
+2023-04-01,4-Wheelers,Mercedes-benzag,8.0
+2023-04-01,4-Wheelers,Volvo Auto India,27.0
+2023-04-01,4-Wheelers,KIA Motors,30.0
+2021-05-01,4-Wheelers,Tata Motors,137.0
+2021-05-01,4-Wheelers,MG MOTOR,39.0
+2021-05-01,4-Wheelers,Mahindra & Mahindra,78.0
+2021-05-01,4-Wheelers,HYUNDAI MOTOR,3.0
+2022-05-01,4-Wheelers,Tata Motors,2097.0
+2022-05-01,4-Wheelers,MG Motor,181.0
+2022-05-01,4-Wheelers,Mahindra & Mahindra,622.0
+2022-05-01,4-Wheelers,BYD India,
+2022-05-01,4-Wheelers,Hyundai Motor,19.0
+2022-05-01,4-Wheelers,BMW INDIA,6.0
+2022-05-01,4-Wheelers,Mercedes -Benz AG,4.0
+2023-05-01,4-Wheelers,Tatamotors,3212.0
+2023-05-01,4-Wheelers,Mgmotor,351.0
+2023-05-01,4-Wheelers,Mahindra&mahindra,3457.0
+2023-05-01,4-Wheelers,BYD India,110.0
+2023-05-01,4-Wheelers,Hyundai Motor,129.0
+2023-05-01,4-Wheelers,PCA Automobiles,245.0
+2023-05-01,4-Wheelers,BMW India,-100.0
+2023-05-01,4-Wheelers,MERCEDES -BENZ AG,
+2023-05-01,4-Wheelers,Volvo Auto India,34.0
+2023-05-01,4-Wheelers,KIA Motors,-100.0
+2021-06-01,4-Wheelers,Tata Motors,572.0
+2021-06-01,4-Wheelers,MG Motor,128.0
+2021-06-01,4-Wheelers,Mahindra&mahindra,106.0
+2021-06-01,4-Wheelers,Hyundai Motor,10.0
+2021-06-01,4-Wheelers,Mercedes-benzag,2.0
+2022-06-01,4-Wheelers,Tatamotors,2169.0
+2022-06-01,4-Wheelers,MG MOTOR,173.0
+2022-06-01,4-Wheelers,Mahindra & Mahindra,787.0
+2022-06-01,4-Wheelers,BYD India,36.0
+2022-06-01,4-Wheelers,Hyundai Motor,39.0
+2022-06-01,4-Wheelers,BMW India,4.0
+2022-06-01,4-Wheelers,Mercedes -Benz AG,2.0
+2023-06-01,4-Wheelers,Tata Motors,3671.0
+2023-06-01,4-Wheelers,MG Motor,877.0
+2023-06-01,4-Wheelers,Mahindra & Mahindra,2574.0
+2023-06-01,4-Wheelers,BYD India,140.0
+2023-06-01,4-Wheelers,Hyundai Motor,121.0
+2023-06-01,4-Wheelers,PCA Automobiles,254.0
+2023-06-01,4-Wheelers,BMW India,76.0
+2023-06-01,4-Wheelers,Mercedes -Benz AG,14.0
+2023-06-01,4-Wheelers,Volvoautoindia,33.0
+2023-06-01,4-Wheelers,KIA Motors,30.0
+2021-07-01,4-Wheelers,Tata Motors,696.0
+2021-07-01,4-Wheelers,MG Motor,232.0
+2021-07-01,4-Wheelers,Mahindra & Mahindra,171.0
+2021-07-01,4-Wheelers,Hyundai Motor,18.0
+2021-07-01,4-Wheelers,Mercedes -Benz AG,1.0
+2022-07-01,4-Wheelers,Tata Motors,2264.0
+2022-07-01,4-Wheelers,MG MOTOR,194.0
+2022-07-01,4-Wheelers,Mahindra & Mahindra,866.0
+2022-07-01,4-Wheelers,BYD India,32.0
+2022-07-01,4-Wheelers,Hyundai Motor,45.0
+2022-07-01,4-Wheelers,BMW India,4.0
+2022-07-01,4-Wheelers,Mercedes -Benz AG,1.0
+2023-07-01,4-Wheelers,Tata Motors,3823.0
+2023-07-01,4-Wheelers,Mgmotor,
+2023-07-01,4-Wheelers,Mahindra&mahindra,2174.0
+2023-07-01,4-Wheelers,BYD India,89.0
+2023-07-01,4-Wheelers,HYUNDAI MOTOR,88.0
+2023-07-01,4-Wheelers,PCA Automobiles,169.0
+2023-07-01,4-Wheelers,BMW India,81.0
+2023-07-01,4-Wheelers,Mercedes -Benz AG,-100.0
+2023-07-01,4-Wheelers,Volvo Auto India,26.0
+2023-07-01,4-Wheelers,KIA Motors,22.0
+2021-08-01,4-Wheelers,Tata Motors,584.0
+2021-08-01,4-Wheelers,MG Motor,303.0
+2021-08-01,4-Wheelers,Mahindra & Mahindra,204.0
+2021-08-01,4-Wheelers,HYUNDAI MOTOR,10.0
+2021-08-01,4-Wheelers,Mercedes -Benz AG,2.0
+2022-08-01,4-Wheelers,Tata Motors,1931.0
+2022-08-01,4-Wheelers,MG Motor,234.0
+2022-08-01,4-Wheelers,Mahindra & Mahindra,1085.0
+2022-08-01,4-Wheelers,BYD India,33.0
+2022-08-01,4-Wheelers,Hyundai Motor,53.0
+2022-08-01,4-Wheelers,BMW India,19.0
+2022-08-01,4-Wheelers,Mercedes-benzag,3.0
+2023-08-01,4-Wheelers,Tata Motors,3388.0
+2023-08-01,4-Wheelers,MG Motor,913.0
+2023-08-01,4-Wheelers,MAHINDRA & MAHINDRA,2013.0
+2023-08-01,4-Wheelers,BYD India,80.0
+2023-08-01,4-Wheelers,Hyundai Motor,141.0
+2023-08-01,4-Wheelers,Pcaautomobiles,89.0
+2023-08-01,4-Wheelers,BMW India,64.0
+2023-08-01,4-Wheelers,Mercedes-benzag,8.0
+2023-08-01,4-Wheelers,Volvo Auto India,36.0
+2023-08-01,4-Wheelers,KIA Motors,21.0
+2021-09-01,4-Wheelers,Tata Motors,772.0
+2021-09-01,4-Wheelers,MG MOTOR,263.0
+2021-09-01,4-Wheelers,Mahindra & Mahindra,276.0
+2021-09-01,4-Wheelers,Hyundai Motor,6.0
+2021-09-01,4-Wheelers,Mercedes -Benz AG,2.0
+2022-09-01,4-Wheelers,Tata Motors,1997.0
+2022-09-01,4-Wheelers,Mgmotor,207.0
+2022-09-01,4-Wheelers,MAHINDRA & MAHINDRA,1213.0
+2022-09-01,4-Wheelers,Bydindia,48.0
+2022-09-01,4-Wheelers,HYUNDAI MOTOR,57.0
+2022-09-01,4-Wheelers,BMW India,21.0
+2022-09-01,4-Wheelers,MERCEDES -BENZ AG,3.0
+2023-09-01,4-Wheelers,Tata Motors,3126.0
+2023-09-01,4-Wheelers,MG Motor,676.0
+2023-09-01,4-Wheelers,Mahindra & Mahindra,1668.0
+2023-09-01,4-Wheelers,BYD INDIA,
+2023-09-01,4-Wheelers,Hyundai Motor,161.0
+2023-09-01,4-Wheelers,PCA Automobiles,108.0
+2023-09-01,4-Wheelers,Bmwindia,58.0
+2023-09-01,4-Wheelers,MERCEDES -BENZ AG,41.0
+2023-09-01,4-Wheelers,Volvo Auto India,42.0
+2023-09-01,4-Wheelers,KIA MOTORS,26.0
+2021-10-01,4-Wheelers,Tata Motors,803.0
+2021-10-01,4-Wheelers,Mgmotor,194.0
+2021-10-01,4-Wheelers,Mahindra & Mahindra,369.0
+2021-10-01,4-Wheelers,Hyundai Motor,8.0
+2021-10-01,4-Wheelers,Mercedes -Benz AG,3.0
+2022-10-01,4-Wheelers,Tata Motors,2395.0
+2022-10-01,4-Wheelers,Mgmotor,338.0
+2022-10-01,4-Wheelers,Mahindra & Mahindra,1051.0
+2022-10-01,4-Wheelers,BYD INDIA,27.0
+2022-10-01,4-Wheelers,Hyundai Motor,64.0
+2022-10-01,4-Wheelers,BMW India,4.0
+2022-10-01,4-Wheelers,Mercedes -Benz AG,4.0
+2022-10-01,4-Wheelers,KIA Motors,29.0
+2023-10-01,4-Wheelers,Tata Motors,3911.0
+2023-10-01,4-Wheelers,Mgmotor,714.0
+2023-10-01,4-Wheelers,Mahindra & Mahindra,2027.0
+2023-10-01,4-Wheelers,BYD India,109.0
+2023-10-01,4-Wheelers,Hyundai Motor,148.0
+2023-10-01,4-Wheelers,PCA AUTOMOBILES,132.0
+2023-10-01,4-Wheelers,BMW India,-100.0
+2023-10-01,4-Wheelers,Mercedes -Benz AG,18.0
+2023-10-01,4-Wheelers,Volvo Auto India,41.0
+2023-10-01,4-Wheelers,KIA Motors,39.0
+2021-11-01,4-Wheelers,Tata Motors,1036.0
+2021-11-01,4-Wheelers,MG Motor,118.0
+2021-11-01,4-Wheelers,Mahindra & Mahindra,462.0
+2021-11-01,4-Wheelers,Hyundai Motor,7.0
+2021-11-01,4-Wheelers,Mercedes -Benz AG,2.0
+2022-11-01,4-Wheelers,Tata Motors,2264.0
+2022-11-01,4-Wheelers,MG MOTOR,
+2022-11-01,4-Wheelers,Mahindra & Mahindra,1067.0
+2022-11-01,4-Wheelers,BYD India,39.0
+2022-11-01,4-Wheelers,Hyundai Motor,
+2022-11-01,4-Wheelers,BMW India,14.0
+2022-11-01,4-Wheelers,Mercedes-benzag,4.0
+2022-11-01,4-Wheelers,Volvo Auto India,5.0
+2022-11-01,4-Wheelers,KIA Motors,61.0
+2023-11-01,4-Wheelers,Tata Motors,4432.0
+2023-11-01,4-Wheelers,MG Motor,723.0
+2023-11-01,4-Wheelers,Mahindra & Mahindra,1222.0
+2023-11-01,4-Wheelers,BYD India,106.0
+2023-11-01,4-Wheelers,Hyundai Motor,125.0
+2023-11-01,4-Wheelers,PCA Automobiles,98.0
+2023-11-01,4-Wheelers,BMW INDIA,215.0
+2023-11-01,4-Wheelers,Mercedes -Benz AG,35.0
+2023-11-01,4-Wheelers,Volvo Auto India,57.0
+2023-11-01,4-Wheelers,KIA MOTORS,29.0
+2021-12-01,4-Wheelers,Tata Motors,1952.0
+2021-12-01,4-Wheelers,MG Motor,99.0
+2021-12-01,4-Wheelers,Mahindra & Mahindra,552.0
+2021-12-01,4-Wheelers,BYD India,1.0
+2021-12-01,4-Wheelers,Hyundai Motor,10.0
+2021-12-01,4-Wheelers,Mercedes-benzag,1.0
+2022-12-01,4-Wheelers,Tata Motors,1992.0
+2022-12-01,4-Wheelers,MG Motor,363.0
+2022-12-01,4-Wheelers,Mahindra & Mahindra,1260.0
+2022-12-01,4-Wheelers,Bydindia,37.0
+2022-12-01,4-Wheelers,Hyundai Motor,68.0
+2022-12-01,4-Wheelers,BMW INDIA,27.0
+2022-12-01,4-Wheelers,Mercedes -Benz AG,6.0
+2022-12-01,4-Wheelers,Volvo Auto India,16.0
+2022-12-01,4-Wheelers,KIA MOTORS,
+2023-12-01,4-Wheelers,Tatamotors,4893.0
+2023-12-01,4-Wheelers,MG Motor,753.0
+2023-12-01,4-Wheelers,Mahindra & Mahindra,1015.0
+2023-12-01,4-Wheelers,BYD INDIA,135.0
+2023-12-01,4-Wheelers,Hyundai Motor,97.0
+2023-12-01,4-Wheelers,PCA Automobiles,40.0
+2023-12-01,4-Wheelers,BMW INDIA,137.0
+2023-12-01,4-Wheelers,Mercedes -Benz AG,51.0
+2023-12-01,4-Wheelers,Volvo Auto India,47.0
+2023-12-01,4-Wheelers,KIA Motors,23.0
+2022-01-01,4-Wheelers,Tata Motors,1012.0
+2022-01-01,4-Wheelers,MG Motor,48.0
+2022-01-01,4-Wheelers,MAHINDRA & MAHINDRA,474.0
+2022-01-01,4-Wheelers,BYD India,8.0
+2022-01-01,4-Wheelers,Hyundai Motor,
+2022-01-01,4-Wheelers,Mercedes-benzag,2.0
+2023-01-01,4-Wheelers,Tatamotors,1812.0
+2023-01-01,4-Wheelers,MG Motor,313.0
+2023-01-01,4-Wheelers,Mahindra & Mahindra,967.0
+2023-01-01,4-Wheelers,BYD INDIA,101.0
+2023-01-01,4-Wheelers,Hyundai Motor,84.0
+2023-01-01,4-Wheelers,BMW India,91.0
+2023-01-01,4-Wheelers,MERCEDES -BENZ AG,14.0
+2023-01-01,4-Wheelers,Volvo Auto India,21.0
+2023-01-01,4-Wheelers,KIA MOTORS,35.0
+2024-01-01,4-Wheelers,Tata Motors,5674.0
+2024-01-01,4-Wheelers,MG Motor,908.0
+2024-01-01,4-Wheelers,Mahindra & Mahindra,896.0
+2024-01-01,4-Wheelers,BYD India,123.0
+2024-01-01,4-Wheelers,Hyundai Motor,128.0
+2024-01-01,4-Wheelers,PCA AUTOMOBILES,23.0
+2024-01-01,4-Wheelers,BMW India,-100.0
+2024-01-01,4-Wheelers,Mercedes -Benz AG,29.0
+2024-01-01,4-Wheelers,Volvo Auto India,42.0
+2024-01-01,4-Wheelers,Kiamotors,29.0
+2022-02-01,4-Wheelers,TATA MOTORS,1922.0
+2022-02-01,4-Wheelers,MG Motor,30.0
+2022-02-01,4-Wheelers,Mahindra & Mahindra,478.0
+2022-02-01,4-Wheelers,BYD India,10.0
+2022-02-01,4-Wheelers,Hyundai Motor,6.0
+2022-02-01,4-Wheelers,Mercedes -Benz AG,3.0
+2023-02-01,4-Wheelers,Tatamotors,2651.0
+2023-02-01,4-Wheelers,MG Motor,261.0
+2023-02-01,4-Wheelers,Mahindra & Mahindra,1531.0
+2023-02-01,4-Wheelers,BYD India,174.0
+2023-02-01,4-Wheelers,HYUNDAI MOTOR,36.0
+2023-02-01,4-Wheelers,BMW India,43.0
+2023-02-01,4-Wheelers,Mercedes -Benz AG,12.0
+2023-02-01,4-Wheelers,Volvo Auto India,26.0
+2023-02-01,4-Wheelers,KIA MOTORS,22.0
+2024-02-01,4-Wheelers,Tatamotors,5081.0
+2024-02-01,4-Wheelers,MG Motor,829.0
+2024-02-01,4-Wheelers,Mahindra&mahindra,712.0
+2024-02-01,4-Wheelers,BYD India,135.0
+2024-02-01,4-Wheelers,Hyundai Motor,94.0
+2024-02-01,4-Wheelers,PCA Automobiles,64.0
+2024-02-01,4-Wheelers,BMW India,97.0
+2024-02-01,4-Wheelers,MERCEDES -BENZ AG,24.0
+2024-02-01,4-Wheelers,Volvoautoindia,35.0
+2024-02-01,4-Wheelers,Kiamotors,17.0
+2022-03-01,4-Wheelers,Tata Motors,2900.0
+2022-03-01,4-Wheelers,MG Motor,75.0
+2022-03-01,4-Wheelers,MAHINDRA & MAHINDRA,701.0
+2022-03-01,4-Wheelers,BYD India,14.0
+2022-03-01,4-Wheelers,HYUNDAI MOTOR,14.0
+2022-03-01,4-Wheelers,BMW India,7.0
+2022-03-01,4-Wheelers,Mercedes-benzag,5.0
+2022-03-01,4-Wheelers,Volvo Auto India,4.0
+2023-03-01,4-Wheelers,TATA MOTORS,5065.0
+2023-03-01,4-Wheelers,MG Motor,372.0
+2023-03-01,4-Wheelers,Mahindra & Mahindra,2745.0
+2023-03-01,4-Wheelers,BYD India,348.0
+2023-03-01,4-Wheelers,Hyundai Motor,35.0
+2023-03-01,4-Wheelers,PCA Automobiles,151.0
+2023-03-01,4-Wheelers,BMW India,40.0
+2023-03-01,4-Wheelers,Mercedes -Benz AG,10.0
+2023-03-01,4-Wheelers,Volvoautoindia,37.0
+2023-03-01,4-Wheelers,KIA Motors,17.0
+2024-03-01,4-Wheelers,TATA MOTORS,6606.0
+2024-03-01,4-Wheelers,MG MOTOR,885.0
+2024-03-01,4-Wheelers,Mahindra & Mahindra,-100.0
+2024-03-01,4-Wheelers,BYD India,142.0
+2024-03-01,4-Wheelers,Hyundai Motor,116.0
+2024-03-01,4-Wheelers,PCA Automobiles,130.0
+2024-03-01,4-Wheelers,BMW India,55.0
+2024-03-01,4-Wheelers,MERCEDES -BENZ AG,31.0
+2024-03-01,4-Wheelers,Volvo Auto India,39.0
+2024-03-01,4-Wheelers,KIA Motors,26.0
+2021-04-01,2-Wheelers,HERO ELECTRIC,759.0
+2021-04-01,2-Wheelers,OKINAWA,1251.0
+2021-04-01,2-Wheelers,AMPERE,-100.0
+2021-04-01,2-Wheelers,Ather,903.0
+2021-04-01,2-Wheelers,PURE EV,581.0
+2021-04-01,2-Wheelers,TVS,302.0
+2021-04-01,2-Wheelers,REVOLT,138.0
+2021-04-01,2-Wheelers,BAJAJ,48.0
+2021-04-01,2-Wheelers,BEING,171.0
+2021-04-01,2-Wheelers,JITENDRA,36.0
+2021-04-01,2-Wheelers,OTHERS,749.0
+2022-04-01,2-Wheelers,OLA ELECTRIC,13601.0
+2022-04-01,2-Wheelers,OKINAWA,11341.0
+2022-04-01,2-Wheelers,HERO ELECTRIC,6803.0
+2022-04-01,2-Wheelers,AMPERE,6864.0
+2022-04-01,2-Wheelers,TVS,1498.0
+2022-04-01,2-Wheelers,ATHER,
+2022-04-01,2-Wheelers,BAJAJ,1223.0
+2022-04-01,2-Wheelers,REVOLT,1241.0
+2022-04-01,2-Wheelers,PURE EV,1756.0
+2022-04-01,2-Wheelers,BEING,874.0
+2022-04-01,2-Wheelers,JITENDRA,940.0
+2022-04-01,2-Wheelers,OTHERS,4683.0
+2023-04-01,2-Wheelers,OLA ELECTRIC,-100.0
+2023-04-01,2-Wheelers,TVS,8654.0
+2023-04-01,2-Wheelers,ATHER,7707.0
+2023-04-01,2-Wheelers,BAJAJ,4043.0
+2023-04-01,2-Wheelers,AMPERE,8767.0
+2023-04-01,2-Wheelers,Okinawa,3179.0
+2023-04-01,2-Wheelers,HERO ELECTRIC,3293.0
+2023-04-01,2-Wheelers,Okayaev,1544.0
+2023-04-01,2-Wheelers,BGAUSS,762.0
+2023-04-01,2-Wheelers,BATTRE ELECTRIC,644.0
+2023-04-01,2-Wheelers,KINETIC GREEN,838.0
+2023-04-01,2-Wheelers,REVOLT,520.0
+2023-04-01,2-Wheelers,OTHERS,4315.0
+2021-05-01,2-Wheelers,HERO ELECTRIC,170.0
+2021-05-01,2-Wheelers,OKINAWA,245.0
+2021-05-01,2-Wheelers,AMPERE,147.0
+2021-05-01,2-Wheelers,ATHER,160.0
+2021-05-01,2-Wheelers,PURE EV,122.0
+2021-05-01,2-Wheelers,TVS,9.0
+2021-05-01,2-Wheelers,REVOLT,42.0
+2021-05-01,2-Wheelers,BAJAJ,20.0
+2021-05-01,2-Wheelers,BEING,54.0
+2021-05-01,2-Wheelers,JITENDRA,13.0
+2021-05-01,2-Wheelers,OTHERS,260.0
+2022-05-01,2-Wheelers,OLA ELECTRIC,9266.0
+2022-05-01,2-Wheelers,OKINAWA,10340.0
+2022-05-01,2-Wheelers,HERO ELECTRIC,2970.0
+2022-05-01,2-Wheelers,Ampere,6176.0
+2022-05-01,2-Wheelers,Tvs,478.0
+2022-05-01,2-Wheelers,ATHER,3337.0
+2022-05-01,2-Wheelers,BAJAJ,1812.0
+2022-05-01,2-Wheelers,OKAYA EV,19.0
+2022-05-01,2-Wheelers,REVOLT,1589.0
+2022-05-01,2-Wheelers,PURE EV,1464.0
+2022-05-01,2-Wheelers,BEING,862.0
+2022-05-01,2-Wheelers,Jitendra,646.0
+2022-05-01,2-Wheelers,OTHERS,3455.0
+2023-05-01,2-Wheelers,OLA ELECTRIC,29447.0
+2023-05-01,2-Wheelers,TVS,20188.0
+2023-05-01,2-Wheelers,ATHER,15243.0
+2023-05-01,2-Wheelers,BAJAJ,9976.0
+2023-05-01,2-Wheelers,AMPERE,10659.0
+2023-05-01,2-Wheelers,OKINAWA,2873.0
+2023-05-01,2-Wheelers,HERO ELECTRIC,2085.0
+2023-05-01,2-Wheelers,Okayaev,3831.0
+2023-05-01,2-Wheelers,BGAUSS,1792.0
+2023-05-01,2-Wheelers,BATTRE ELECTRIC,1185.0
+2023-05-01,2-Wheelers,Kineticgreen,886.0
+2023-05-01,2-Wheelers,REVOLT,565.0
+2023-05-01,2-Wheelers,OTHERS,6627.0
+2021-06-01,2-Wheelers,HERO ELECTRIC,1355.0
+2021-06-01,2-Wheelers,OKINAWA,984.0
+2021-06-01,2-Wheelers,AMPERE,-100.0
+2021-06-01,2-Wheelers,ATHER,320.0
+2021-06-01,2-Wheelers,PURE EV,460.0
+2021-06-01,2-Wheelers,Tvs,208.0
+2021-06-01,2-Wheelers,REVOLT,59.0
+2021-06-01,2-Wheelers,BAJAJ,176.0
+2021-06-01,2-Wheelers,Being,198.0
+2021-06-01,2-Wheelers,JITENDRA,43.0
+2021-06-01,2-Wheelers,OTHERS,567.0
+2022-06-01,2-Wheelers,OLA ELECTRIC,5897.0
+2022-06-01,2-Wheelers,OKINAWA,7554.0
+2022-06-01,2-Wheelers,HERO ELECTRIC,6836.0
+2022-06-01,2-Wheelers,AMPERE,6919.0
+2022-06-01,2-Wheelers,Tvs,1983.0
+2022-06-01,2-Wheelers,ATHER,3829.0
+2022-06-01,2-Wheelers,BAJAJ,1824.0
+2022-06-01,2-Wheelers,OKAYA EV,760.0
+2022-06-01,2-Wheelers,REVOLT,2423.0
+2022-06-01,2-Wheelers,PURE EV,1125.0
+2022-06-01,2-Wheelers,BEING,1005.0
+2022-06-01,2-Wheelers,JITENDRA,568.0
+2022-06-01,2-Wheelers,OTHERS,3658.0
+2023-06-01,2-Wheelers,OLA ELECTRIC,17768.0
+2023-06-01,2-Wheelers,TVS,7772.0
+2023-06-01,2-Wheelers,ATHER,4547.0
+2023-06-01,2-Wheelers,BAJAJ,2975.0
+2023-06-01,2-Wheelers,AMPERE,3006.0
+2023-06-01,2-Wheelers,OKINAWA,2588.0
+2023-06-01,2-Wheelers,HERO ELECTRIC,1123.0
+2023-06-01,2-Wheelers,OKAYA EV,419.0
+2023-06-01,2-Wheelers,BGAUSS,189.0
+2023-06-01,2-Wheelers,BATTRE ELECTRIC,82.0
+2023-06-01,2-Wheelers,KINETIC GREEN,201.0
+2023-06-01,2-Wheelers,REVOLT,705.0
+2023-06-01,2-Wheelers,OTHERS,4466.0
+2021-07-01,2-Wheelers,HERO ELECTRIC,4557.0
+2021-07-01,2-Wheelers,OKINAWA,2633.0
+2021-07-01,2-Wheelers,AMPERE,663.0
+2021-07-01,2-Wheelers,ATHER,1799.0
+2021-07-01,2-Wheelers,Pureev,1417.0
+2021-07-01,2-Wheelers,TVS,648.0
+2021-07-01,2-Wheelers,Revolt,321.0
+2021-07-01,2-Wheelers,BAJAJ,730.0
+2021-07-01,2-Wheelers,BEING,494.0
+2021-07-01,2-Wheelers,JITENDRA,212.0
+2021-07-01,2-Wheelers,Others,1202.0
+2022-07-01,2-Wheelers,OLA ELECTRIC,3864.0
+2022-07-01,2-Wheelers,Okinawa,8394.0
+2022-07-01,2-Wheelers,HERO ELECTRIC,9334.0
+2022-07-01,2-Wheelers,AMPERE,6812.0
+2022-07-01,2-Wheelers,TVS,4348.0
+2022-07-01,2-Wheelers,ATHER,1289.0
+2022-07-01,2-Wheelers,BAJAJ,2482.0
+2022-07-01,2-Wheelers,OKAYA EV,1076.0
+2022-07-01,2-Wheelers,REVOLT,2318.0
+2022-07-01,2-Wheelers,PURE EV,1000.0
+2022-07-01,2-Wheelers,BEING,1245.0
+2022-07-01,2-Wheelers,Jitendra,880.0
+2022-07-01,2-Wheelers,OTHERS,3562.0
+2023-07-01,2-Wheelers,OLA ELECTRIC,19409.0
+2023-07-01,2-Wheelers,TVS,10272.0
+2023-07-01,2-Wheelers,Ather,6604.0
+2023-07-01,2-Wheelers,BAJAJ,4081.0
+2023-07-01,2-Wheelers,AMPERE,3530.0
+2023-07-01,2-Wheelers,OKINAWA,2238.0
+2023-07-01,2-Wheelers,HERO ELECTRIC,770.0
+2023-07-01,2-Wheelers,OKAYA EV,775.0
+2023-07-01,2-Wheelers,BGAUSS,653.0
+2023-07-01,2-Wheelers,BATTRE ELECTRIC,133.0
+2023-07-01,2-Wheelers,KINETIC GREEN,229.0
+2023-07-01,2-Wheelers,REVOLT,478.0
+2023-07-01,2-Wheelers,OTHERS,5020.0
+2021-08-01,2-Wheelers,HERO ELECTRIC,5527.0
+2021-08-01,2-Wheelers,OKINAWA,2894.0
+2021-08-01,2-Wheelers,AMPERE,810.0
+2021-08-01,2-Wheelers,Ather,1613.0
+2021-08-01,2-Wheelers,PURE EV,1094.0
+2021-08-01,2-Wheelers,TVS,651.0
+2021-08-01,2-Wheelers,REVOLT,853.0
+2021-08-01,2-Wheelers,BAJAJ,-100.0
+2021-08-01,2-Wheelers,BEING,325.0
+2021-08-01,2-Wheelers,JITENDRA,208.0
+2021-08-01,2-Wheelers,OTHERS,1279.0
+2022-08-01,2-Wheelers,OLA ELECTRIC,3475.0
+2022-08-01,2-Wheelers,OKINAWA,8756.0
+2022-08-01,2-Wheelers,HERO ELECTRIC,9925.0
+2022-08-01,2-Wheelers,AMPERE,6771.0
+2022-08-01,2-Wheelers,TVS,6426.0
+2022-08-01,2-Wheelers,Ather,5376.0
+2022-08-01,2-Wheelers,BAJAJ,2620.0
+2022-08-01,2-Wheelers,OKAYA EV,905.0
+2022-08-01,2-Wheelers,REVOLT,1662.0
+2022-08-01,2-Wheelers,PURE EV,880.0
+2022-08-01,2-Wheelers,BEING,1099.0
+2022-08-01,2-Wheelers,Jitendra,653.0
+2022-08-01,2-Wheelers,OTHERS,3678.0
+2023-08-01,2-Wheelers,Olaelectric,18983.0
+2023-08-01,2-Wheelers,TVS,15296.0
+2023-08-01,2-Wheelers,ATHER,7065.0
+2023-08-01,2-Wheelers,BAJAJ,6508.0
+2023-08-01,2-Wheelers,AMPERE,3654.0
+2023-08-01,2-Wheelers,OKINAWA,
+2023-08-01,2-Wheelers,HERO ELECTRIC,774.0
+2023-08-01,2-Wheelers,OKAYA EV,1137.0
+2023-08-01,2-Wheelers,BGAUSS,912.0
+2023-08-01,2-Wheelers,Battreelectric,287.0
+2023-08-01,2-Wheelers,KINETIC GREEN,380.0
+2023-08-01,2-Wheelers,REVOLT,508.0
+2023-08-01,2-Wheelers,OTHERS,4990.0
+2021-09-01,2-Wheelers,HERO ELECTRIC,6727.0
+2021-09-01,2-Wheelers,OKINAWA,3321.0
+2021-09-01,2-Wheelers,AMPERE,807.0
+2021-09-01,2-Wheelers,ATHER,2174.0
+2021-09-01,2-Wheelers,PURE EV,-100.0
+2021-09-01,2-Wheelers,TVS,688.0
+2021-09-01,2-Wheelers,REVOLT,499.0
+2021-09-01,2-Wheelers,BAJAJ,381.0
+2021-09-01,2-Wheelers,Being,337.0
+2021-09-01,2-Wheelers,JITENDRA,134.0
+2021-09-01,2-Wheelers,OTHERS,1627.0
+2022-09-01,2-Wheelers,Olaelectric,8065.0
+2022-09-01,2-Wheelers,OKINAWA,8497.0
+2022-09-01,2-Wheelers,HERO ELECTRIC,8208.0
+2022-09-01,2-Wheelers,AMPERE,6488.0
+2022-09-01,2-Wheelers,Tvs,4001.0
+2022-09-01,2-Wheelers,ATHER,6280.0
+2022-09-01,2-Wheelers,BAJAJ,3649.0
+2022-09-01,2-Wheelers,OKAYA EV,954.0
+2022-09-01,2-Wheelers,REVOLT,865.0
+2022-09-01,2-Wheelers,PURE EV,790.0
+2022-09-01,2-Wheelers,BEING,975.0
+2022-09-01,2-Wheelers,JITENDRA,661.0
+2022-09-01,2-Wheelers,OTHERS,3849.0
+2023-09-01,2-Wheelers,OLA ELECTRIC,18926.0
+2023-09-01,2-Wheelers,TVS,15425.0
+2023-09-01,2-Wheelers,ATHER,7107.0
+2023-09-01,2-Wheelers,BAJAJ,7019.0
+2023-09-01,2-Wheelers,AMPERE,4148.0
+2023-09-01,2-Wheelers,OKINAWA,1769.0
+2023-09-01,2-Wheelers,HERO ELECTRIC,835.0
+2023-09-01,2-Wheelers,OKAYA EV,873.0
+2023-09-01,2-Wheelers,BGAUSS,924.0
+2023-09-01,2-Wheelers,BATTRE ELECTRIC,255.0
+2023-09-01,2-Wheelers,KINETIC GREEN,231.0
+2023-09-01,2-Wheelers,REVOLT,-100.0
+2023-09-01,2-Wheelers,OTHERS,5355.0
+2021-10-01,2-Wheelers,HERO ELECTRIC,6799.0
+2021-10-01,2-Wheelers,Okinawa,4166.0
+2021-10-01,2-Wheelers,AMPERE,1083.0
+2021-10-01,2-Wheelers,Ather,2647.0
+2021-10-01,2-Wheelers,Pureev,1400.0
+2021-10-01,2-Wheelers,TVS,486.0
+2021-10-01,2-Wheelers,REVOLT,900.0
+2021-10-01,2-Wheelers,BAJAJ,754.0
+2021-10-01,2-Wheelers,BEING,
+2021-10-01,2-Wheelers,Jitendra,283.0
+2021-10-01,2-Wheelers,OTHERS,1826.0
+2022-10-01,2-Wheelers,OLA ELECTRIC,-100.0
+2022-10-01,2-Wheelers,OKINAWA,14950.0
+2022-10-01,2-Wheelers,Heroelectric,8868.0
+2022-10-01,2-Wheelers,AMPERE,10113.0
+2022-10-01,2-Wheelers,Tvs,5820.0
+2022-10-01,2-Wheelers,Ather,7356.0
+2022-10-01,2-Wheelers,BAJAJ,3549.0
+2022-10-01,2-Wheelers,OKAYA EV,1968.0
+2022-10-01,2-Wheelers,REVOLT,1041.0
+2022-10-01,2-Wheelers,PURE EV,1047.0
+2022-10-01,2-Wheelers,BEING,1422.0
+2022-10-01,2-Wheelers,Jitendra,-100.0
+2022-10-01,2-Wheelers,OTHERS,4614.0
+2023-10-01,2-Wheelers,OLA ELECTRIC,23968.0
+2023-10-01,2-Wheelers,TVS,
+2023-10-01,2-Wheelers,ATHER,8375.0
+2023-10-01,2-Wheelers,BAJAJ,8960.0
+2023-10-01,2-Wheelers,AMPERE,4487.0
+2023-10-01,2-Wheelers,OKINAWA,1457.0
+2023-10-01,2-Wheelers,HERO ELECTRIC,658.0
+2023-10-01,2-Wheelers,OKAYA EV,863.0
+2023-10-01,2-Wheelers,BGAUSS,1157.0
+2023-10-01,2-Wheelers,BATTRE ELECTRIC,227.0
+2023-10-01,2-Wheelers,KINETIC GREEN,389.0
+2023-10-01,2-Wheelers,REVOLT,681.0
+2023-10-01,2-Wheelers,OTHERS,7092.0
+2021-11-01,2-Wheelers,Heroelectric,7493.0
+2021-11-01,2-Wheelers,OKINAWA,5542.0
+2021-11-01,2-Wheelers,AMPERE,2077.0
+2021-11-01,2-Wheelers,ATHER,2202.0
+2021-11-01,2-Wheelers,PURE EV,1688.0
+2021-11-01,2-Wheelers,TVS,522.0
+2021-11-01,2-Wheelers,REVOLT,780.0
+2021-11-01,2-Wheelers,BAJAJ,728.0
+2021-11-01,2-Wheelers,BEING,912.0
+2021-11-01,2-Wheelers,JITENDRA,273.0
+2021-11-01,2-Wheelers,Others,2317.0
+2022-11-01,2-Wheelers,OLA ELECTRIC,15797.0
+2022-11-01,2-Wheelers,OKINAWA,9068.0
+2022-11-01,2-Wheelers,HERO ELECTRIC,9026.0
+2022-11-01,2-Wheelers,AMPERE,12446.0
+2022-11-01,2-Wheelers,Tvs,8147.0
+2022-11-01,2-Wheelers,ATHER,7837.0
+2022-11-01,2-Wheelers,BAJAJ,3057.0
+2022-11-01,2-Wheelers,OKAYA EV,1783.0
+2022-11-01,2-Wheelers,Revolt,524.0
+2022-11-01,2-Wheelers,PURE EV,925.0
+2022-11-01,2-Wheelers,BEING,1216.0
+2022-11-01,2-Wheelers,JITENDRA,1256.0
+2022-11-01,2-Wheelers,OTHERS,5693.0
+2023-11-01,2-Wheelers,OLA ELECTRIC,29980.0
+2023-11-01,2-Wheelers,Tvs,18914.0
+2023-11-01,2-Wheelers,ATHER,9220.0
+2023-11-01,2-Wheelers,BAJAJ,11769.0
+2023-11-01,2-Wheelers,Ampere,4638.0
+2023-11-01,2-Wheelers,OKINAWA,1587.0
+2023-11-01,2-Wheelers,Heroelectric,814.0
+2023-11-01,2-Wheelers,OKAYA EV,1281.0
+2023-11-01,2-Wheelers,BGAUSS,1589.0
+2023-11-01,2-Wheelers,BATTRE ELECTRIC,659.0
+2023-11-01,2-Wheelers,KINETIC GREEN,422.0
+2023-11-01,2-Wheelers,Revolt,663.0
+2023-11-01,2-Wheelers,Others,9707.0
+2021-12-01,2-Wheelers,HERO ELECTRIC,6402.0
+2021-12-01,2-Wheelers,OKINAWA,6184.0
+2021-12-01,2-Wheelers,Ampere,3410.0
+2021-12-01,2-Wheelers,ATHER,1813.0
+2021-12-01,2-Wheelers,PURE EV,1685.0
+2021-12-01,2-Wheelers,Olaelectric,240.0
+2021-12-01,2-Wheelers,Tvs,1119.0
+2021-12-01,2-Wheelers,Revolt,835.0
+2021-12-01,2-Wheelers,BAJAJ,642.0
+2021-12-01,2-Wheelers,BEING,1190.0
+2021-12-01,2-Wheelers,JITENDRA,503.0
+2021-12-01,2-Wheelers,OTHERS,-100.0
+2022-12-01,2-Wheelers,OLA ELECTRIC,16919.0
+2022-12-01,2-Wheelers,OKINAWA,5281.0
+2022-12-01,2-Wheelers,Heroelectric,8100.0
+2022-12-01,2-Wheelers,AMPERE,
+2022-12-01,2-Wheelers,TVS,9363.0
+2022-12-01,2-Wheelers,ATHER,7693.0
+2022-12-01,2-Wheelers,BAJAJ,3240.0
+2022-12-01,2-Wheelers,OKAYA EV,1445.0
+2022-12-01,2-Wheelers,Revolt,37.0
+2022-12-01,2-Wheelers,PURE EV,780.0
+2022-12-01,2-Wheelers,BEING,966.0
+2022-12-01,2-Wheelers,JITENDRA,668.0
+2022-12-01,2-Wheelers,OTHERS,5557.0
+2023-12-01,2-Wheelers,OLA ELECTRIC,30588.0
+2023-12-01,2-Wheelers,Tvs,12171.0
+2023-12-01,2-Wheelers,ATHER,6471.0
+2023-12-01,2-Wheelers,Bajaj,10292.0
+2023-12-01,2-Wheelers,AMPERE,3309.0
+2023-12-01,2-Wheelers,OKINAWA,953.0
+2023-12-01,2-Wheelers,HERO ELECTRIC,545.0
+2023-12-01,2-Wheelers,Okayaev,700.0
+2023-12-01,2-Wheelers,BGAUSS,1200.0
+2023-12-01,2-Wheelers,Battreelectric,241.0
+2023-12-01,2-Wheelers,KINETIC GREEN,660.0
+2023-12-01,2-Wheelers,REVOLT,673.0
+2023-12-01,2-Wheelers,OTHERS,7691.0
+2022-01-01,2-Wheelers,HERO ELECTRIC,8238.0
+2022-01-01,2-Wheelers,Okinawa,5737.0
+2022-01-01,2-Wheelers,AMPERE,4366.0
+2022-01-01,2-Wheelers,ATHER,1881.0
+2022-01-01,2-Wheelers,PURE EV,1691.0
+2022-01-01,2-Wheelers,OLA ELECTRIC,1107.0
+2022-01-01,2-Wheelers,TVS,1155.0
+2022-01-01,2-Wheelers,REVOLT,673.0
+2022-01-01,2-Wheelers,BAJAJ,612.0
+2022-01-01,2-Wheelers,BEING,1062.0
+2022-01-01,2-Wheelers,Jitendra,535.0
+2022-01-01,2-Wheelers,OTHERS,
+2023-01-01,2-Wheelers,OLA ELECTRIC,20148.0
+2023-01-01,2-Wheelers,OKINAWA,4407.0
+2023-01-01,2-Wheelers,HERO ELECTRIC,6399.0
+2023-01-01,2-Wheelers,AMPERE,4456.0
+2023-01-01,2-Wheelers,TVS,10462.0
+2023-01-01,2-Wheelers,ATHER,9224.0
+2023-01-01,2-Wheelers,BAJAJ,2252.0
+2023-01-01,2-Wheelers,Okayaev,1265.0
+2023-01-01,2-Wheelers,Revolt,14.0
+2023-01-01,2-Wheelers,Pureev,717.0
+2023-01-01,2-Wheelers,BEING,571.0
+2023-01-01,2-Wheelers,JITENDRA,522.0
+2023-01-01,2-Wheelers,Others,4241.0
+2024-01-01,2-Wheelers,OLA ELECTRIC,32275.0
+2024-01-01,2-Wheelers,Tvs,15153.0
+2024-01-01,2-Wheelers,ATHER,9244.0
+2024-01-01,2-Wheelers,BAJAJ,10753.0
+2024-01-01,2-Wheelers,AMPERE,2505.0
+2024-01-01,2-Wheelers,OKINAWA,675.0
+2024-01-01,2-Wheelers,Heroelectric,413.0
+2024-01-01,2-Wheelers,OKAYA EV,574.0
+2024-01-01,2-Wheelers,BGAUSS,1469.0
+2024-01-01,2-Wheelers,BATTRE ELECTRIC,284.0
+2024-01-01,2-Wheelers,KINETIC GREEN,810.0
+2024-01-01,2-Wheelers,Revolt,524.0
+2024-01-01,2-Wheelers,OTHERS,6664.0
+2022-02-01,2-Wheelers,HERO ELECTRIC,7773.0
+2022-02-01,2-Wheelers,OKINAWA,6122.0
+2022-02-01,2-Wheelers,AMPERE,
+2022-02-01,2-Wheelers,ATHER,2232.0
+2022-02-01,2-Wheelers,PURE EV,1428.0
+2022-02-01,2-Wheelers,OLA ELECTRIC,3911.0
+2022-02-01,2-Wheelers,TVS,1560.0
+2022-02-01,2-Wheelers,Revolt,1128.0
+2022-02-01,2-Wheelers,BAJAJ,1372.0
+2022-02-01,2-Wheelers,BEING,1149.0
+2022-02-01,2-Wheelers,JITENDRA,583.0
+2022-02-01,2-Wheelers,OTHERS,4033.0
+2023-02-01,2-Wheelers,OLA ELECTRIC,17762.0
+2023-02-01,2-Wheelers,OKINAWA,3848.0
+2023-02-01,2-Wheelers,HERO ELECTRIC,5863.0
+2023-02-01,2-Wheelers,AMPERE,6003.0
+2023-02-01,2-Wheelers,Tvs,12671.0
+2023-02-01,2-Wheelers,ATHER,10069.0
+2023-02-01,2-Wheelers,BAJAJ,2537.0
+2023-02-01,2-Wheelers,OKAYA EV,1232.0
+2023-02-01,2-Wheelers,Revolt,79.0
+2023-02-01,2-Wheelers,PURE EV,488.0
+2023-02-01,2-Wheelers,BEING,337.0
+2023-02-01,2-Wheelers,Jitendra,308.0
+2023-02-01,2-Wheelers,Others,4874.0
+2024-02-01,2-Wheelers,OLA ELECTRIC,33967.0
+2024-02-01,2-Wheelers,Tvs,14431.0
+2024-02-01,2-Wheelers,ATHER,8957.0
+2024-02-01,2-Wheelers,BAJAJ,11603.0
+2024-02-01,2-Wheelers,AMPERE,2577.0
+2024-02-01,2-Wheelers,OKINAWA,652.0
+2024-02-01,2-Wheelers,HERO ELECTRIC,323.0
+2024-02-01,2-Wheelers,OKAYA EV,649.0
+2024-02-01,2-Wheelers,BGAUSS,1334.0
+2024-02-01,2-Wheelers,BATTRE ELECTRIC,219.0
+2024-02-01,2-Wheelers,KINETIC GREEN,624.0
+2024-02-01,2-Wheelers,REVOLT,473.0
+2024-02-01,2-Wheelers,OTHERS,6154.0
+2022-03-01,2-Wheelers,Heroelectric,-100.0
+2022-03-01,2-Wheelers,OKINAWA,8586.0
+2022-03-01,2-Wheelers,AMPERE,6666.0
+2022-03-01,2-Wheelers,Ather,2232.0
+2022-03-01,2-Wheelers,PURE EV,2065.0
+2022-03-01,2-Wheelers,OLA ELECTRIC,9143.0
+2022-03-01,2-Wheelers,Tvs,2391.0
+2022-03-01,2-Wheelers,REVOLT,1413.0
+2022-03-01,2-Wheelers,BAJAJ,855.0
+2022-03-01,2-Wheelers,BEING,1013.0
+2022-03-01,2-Wheelers,JITENDRA,1052.0
+2022-03-01,2-Wheelers,OTHERS,5330.0
+2023-03-01,2-Wheelers,OLA ELECTRIC,22398.0
+2023-03-01,2-Wheelers,OKINAWA,4509.0
+2023-03-01,2-Wheelers,HERO ELECTRIC,6661.0
+2023-03-01,2-Wheelers,AMPERE,9736.0
+2023-03-01,2-Wheelers,TVS,16896.0
+2023-03-01,2-Wheelers,ATHER,12180.0
+2023-03-01,2-Wheelers,BAJAJ,4552.0
+2023-03-01,2-Wheelers,OKAYA EV,1765.0
+2023-03-01,2-Wheelers,REVOLT,1140.0
+2023-03-01,2-Wheelers,PURE EV,584.0
+2023-03-01,2-Wheelers,Being,446.0
+2023-03-01,2-Wheelers,JITENDRA,350.0
+2023-03-01,2-Wheelers,OTHERS,5089.0
+2024-03-01,2-Wheelers,OLA ELECTRIC,44630.0
+2024-03-01,2-Wheelers,TVS,26158.0
+2024-03-01,2-Wheelers,ATHER,17012.0
+2024-03-01,2-Wheelers,BAJAJ,17716.0
+2024-03-01,2-Wheelers,AMPERE,3108.0
+2024-03-01,2-Wheelers,OKINAWA,673.0
+2024-03-01,2-Wheelers,HERO ELECTRIC,316.0
+2024-03-01,2-Wheelers,OKAYA EV,1218.0
+2024-03-01,2-Wheelers,BGAUSS,3070.0
+2024-03-01,2-Wheelers,BATTRE ELECTRIC,625.0
+2024-03-01,2-Wheelers,KINETIC GREEN,3915.0
+2024-03-01,2-Wheelers,Revolt,585.0
+2024-03-01,2-Wheelers,OTHERS,10579.0
