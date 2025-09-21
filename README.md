@@ -9,12 +9,13 @@ The dashboards provide insights into sales trends, market share, adoption rates,
 ---
 
 ## 📖 Description
-The global EV industry is growing rapidly, and businesses need data-driven insights to track adoption and performance.  
-These dashboards help analyze:  
-- Sales trends by EV makers  
-- State-wise EV adoption  
-- Market share distribution  
-- Growth patterns (Month-over-Month)  
+This project divided into two different pages first is Ev sales by makers analysis and second is Ev sales by state analysis.
+Problem statement is Ev industry is growing rapidly but data is often scattered across different sources and categories this makes it difficult to.
+> Compare Ev sales by makers and states.
+> Track makers shares and adoption rate trends.
+> Understand two wheelers and four wheelers sales distribution.
+> Identify which regions and companies are leading Ev transaction.
+this dashboard provide a comprehensive view of Ev sales by market trends, sales distribution, and adoption rate. It help to identify which makers and state dominating the Ev market, which state lead in Ev adoption and how sales compare between two wheelers and four wheelers.
 
 ---
 
