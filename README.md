@@ -64,7 +64,7 @@ Sample EV dataset containing:
 
 ## 📸 Dashboard Screenshots
 ### EV Sales by Makers
-![EV Sales by Makers]()
+![EV Sales by Makers](https://github.com/Afjal-khan/Ev-Sales-Analysis-Dashboard/blob/main/EV%20sales%20by%20makers%20image.png)
 
 ### State Sales Analysis
-![State Sales Analysis](docs/state_sales_analysis.png)
+![State Sales Analysis]()
